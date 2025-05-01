@@ -5,3 +5,4 @@
 import os
 
 API_KEY = "272480tnxvpqma6hzqk5vk"
+API_KEY = "495078pztmrjyz299bmkd6"
